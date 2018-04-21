@@ -6,4 +6,8 @@ As a first step, I've harvested GLAM-related datasets from the various national 
 
 You can explore the [harvesting methodology in this notebook](GLAM data from gov portals.ipynb).
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wragge/ozglam-data/master)
+
 I've created [a CSV of all the CSV-formatted datasets](gov-glam-datasets.csv) I found. There are duplicates in the list because some datasets are listed on more than one portal. While my interested is in datasets containing collection data, the list also includes datasets created by the operations of GLAM organisations.
+
+I've also [uploaded the CSV data](https://docs.google.com/spreadsheets/d/1gCcLZEe-pdYEn8DfLrhM9WwfJ2jgfPV39ZRiodzhm78/edit?usp=sharing) to Google sheets for easier browsing.
