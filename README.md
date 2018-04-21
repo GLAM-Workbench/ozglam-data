@@ -4,7 +4,7 @@ I'm trying to assemble some information about Oz GLAM (Galleries, Libraries, Arc
 
 As a first step, I've harvested GLAM-related datasets from the various national and state data portals. I did this by identifying relevant organisations and groups, and then harvesting all the packages associated with them. I also added in a few extra packages that looked relevant.
 
-You can explore the [harvesting methodology in this notebook](GLAM data from gov portals.ipynb).
+You can explore the [harvesting methodology in this notebook](GLAM%20data%20from%20gov%20portals.ipynb).
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wragge/ozglam-data/master)
 
