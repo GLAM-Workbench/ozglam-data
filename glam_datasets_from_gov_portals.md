@@ -240,13 +240,13 @@
 
 ## Museum of Applied Arts and Sciences
 
-### [Powerhouse Museum Collection API](https://data.nsw.gov.au/dataset/bf9df234-7890-4907-94f6-e7872c8f4258)
+### [Powerhouse Museum Collection API](https://data.nsw.gov.au/data/dataset/bf9df234-7890-4907-94f6-e7872c8f4258)
 * [Museum of Applied Arts and Science MAAS’s Public API](https://api.maas.museum/docs) (api, 2013-05-23T21:43:56.565263)
 
-### [Powerhouse Museum Collection simplified dataset](https://data.nsw.gov.au/dataset/91829aff-594e-4cdf-bc76-bf639335fa26)
+### [Powerhouse Museum Collection simplified dataset](https://data.nsw.gov.au/data/dataset/91829aff-594e-4cdf-bc76-bf639335fa26)
 * [Powerhouse Museum Collection simplified dataset](http://www.powerhousemuseum.com/collection/database/download.php) (PHP, 2013-05-23T21:45:06.647694)
 
-### [Search the Powerhouse Museum Collection](https://data.nsw.gov.au/dataset/bf5a60c5-3340-4cd7-9282-d4db9819e071)
+### [Search the Powerhouse Museum Collection](https://data.nsw.gov.au/data/dataset/bf5a60c5-3340-4cd7-9282-d4db9819e071)
 * [Search the Powerhouse Museum Collection](https://collection.maas.museum) (MUSEUM, 2013-05-23T22:09:50.225808)
 
 ## Museums Victoria
@@ -256,7 +256,7 @@
 
 ## NSW State Archives
 
-### [Convict Indexes](https://data.nsw.gov.au/dataset/acdd01d0-d700-465c-a183-735c4f139ca0)
+### [Convict Indexes](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0)
 * [Index to convict bank accounts 1837-70](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0/resource/4cbdcbe0-e51f-41a1-ae44-25a16c2e06bc/download/bank-accounts-1837-70.csv) (CSV, 2015-10-01T11:57:07.654001)
 * [Index to Certificates of Freedom, 1823-69](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0/resource/07fb0a86-e7d6-4023-9033-c6ec50b077d5/download/certificates-of-freedom-1823-69.csv) (CSV, 2015-10-01T11:59:46.136381)
 * [Index to convict pardons, 1791-1825 and 1837-47](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0/resource/c3d46577-7ede-4ed0-96cb-9877af4727a2/download/pardons-1791-1825-and-1837-47.csv) (CSV, 2015-10-01T12:02:20.325069)
@@ -265,25 +265,25 @@
 * [Index to Tickets of Leave, Certificates of Emancipation, and Pardons, 1810-19](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0/resource/82b8128f-b0cf-44ef-b6c5-f4762688b000/download/tickets-of-leave-certificates-of-emancipation-pardons-1810-19.csv) (CSV, 2015-10-01T12:13:36.362074)
 * [Index to Tickets of Leave Passports, 1835-69](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0/resource/128a859e-120f-43e2-8f9f-9aadc05b8745/download/tickets-of-leave-passports-1835-69.csv) (CSV, 2015-10-01T12:14:59.685832)
 
-### [Deceased Estate Files, 1880-1923](https://data.nsw.gov.au/dataset/5d45437c-d07a-4977-95ab-e53fb86f02c1)
+### [Deceased Estate Files, 1880-1923](https://data.nsw.gov.au/data/dataset/5d45437c-d07a-4977-95ab-e53fb86f02c1)
 * [Deceased Estates](https://data.nsw.gov.au/data/dataset/5d45437c-d07a-4977-95ab-e53fb86f02c1/resource/7ea09383-b884-4458-885a-6fab1fc4c209/download/deceased-estates.csv) (CSV, 2014-09-30T00:55:53.313012)
 
-### [Flickr Photostream](https://data.nsw.gov.au/dataset/32f00807-077b-45f9-978b-df4f688b1b17)
+### [Flickr Photostream](https://data.nsw.gov.au/data/dataset/32f00807-077b-45f9-978b-df4f688b1b17)
 * [Flickr Photostream](https://www.flickr.com/photos/state-records-nsw/) (website link, 2014-08-11T23:23:44.269666)
 
-### [NSW Government Railways and Tramways Roll of Honour, 1914-1919](https://data.nsw.gov.au/dataset/33809e06-5e9e-49e6-a922-b345afc0b4ca)
+### [NSW Government Railways and Tramways Roll of Honour, 1914-1919](https://data.nsw.gov.au/data/dataset/33809e06-5e9e-49e6-a922-b345afc0b4ca)
 * [NSW Govt Railways and Tramways - Roll of Honour - 1914-1919.csv](http://data.nsw.gov.au/data/storage/f/2014-09-30T04%3A45%3A19.871Z/nsw-govt-railways-and-tramways-roll-of-honour-1914-1919.csv) (CSV, 2014-09-30T00:46:33.977932)
 
-### [Nominal Roll of the First Railway Section (AIF), 1917-20](https://data.nsw.gov.au/dataset/7e8b1833-4edc-483f-b38c-816e87a60149)
+### [Nominal Roll of the First Railway Section (AIF), 1917-20](https://data.nsw.gov.au/data/dataset/7e8b1833-4edc-483f-b38c-816e87a60149)
 * [Nominal Roll of the First Railway Section (AIF).csv](http://data.nsw.gov.au/data/storage/f/2014-09-30T04%3A50%3A17.994Z/nominal-roll-of-the-first-railway-section-aif.csv) (CSV, 2014-09-30T00:51:03.642506)
 
-### [OpenGov NSW API](https://data.nsw.gov.au/dataset/e2c36616-36db-4bb3-a907-87db836481f0)
+### [OpenGov NSW API](https://data.nsw.gov.au/data/dataset/e2c36616-36db-4bb3-a907-87db836481f0)
 * [OpenGov NSW API](https://www.opengov.nsw.gov.au/api) (API, 2013-05-28T01:05:30.921458)
 
-### [Railway Employment Records](https://data.nsw.gov.au/dataset/1f776129-6d97-4225-afc0-b9fc1833f815)
+### [Railway Employment Records](https://data.nsw.gov.au/data/dataset/1f776129-6d97-4225-afc0-b9fc1833f815)
 * [Railway Employment Records](http://data.nsw.gov.au/data/storage/f/2014-09-30T04%3A35%3A07.812Z/railway-employment-records.csv) (CSV, 2014-09-30T00:36:18.152909)
 
-### [Soldier Settlement Indexes](https://data.nsw.gov.au/dataset/78fe0108-2ae2-4918-b359-48a3bb1c31dd)
+### [Soldier Settlement Indexes](https://data.nsw.gov.au/data/dataset/78fe0108-2ae2-4918-b359-48a3bb1c31dd)
 * [Closer Settlement Promotion files, 1913-](https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/node/1551/browse) (website link, 2013-05-28T01:08:57.757219)
 * [Closer Settlement Transfer Registers, Jul 1919 - Apr 1925](https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/node/1541/browse) (website link, 2013-05-28T01:09:42.446601)
 * [Closer Settlement and Returned Soldier’s Transfer files, 1907-36, 1951](https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/node/1546/browse) (website link, 2013-05-28T01:10:39.394959)
@@ -1040,19 +1040,19 @@
 
 ## State Library of NSW
 
-### [Albums recently added to SLNSW's Manuscripts, Oral History and Pictures catalogue](https://data.nsw.gov.au/dataset/986cbe9b-1e7a-492d-9f1a-c90cb6b20a0f)
+### [Albums recently added to SLNSW's Manuscripts, Oral History and Pictures catalogue](https://data.nsw.gov.au/data/dataset/986cbe9b-1e7a-492d-9f1a-c90cb6b20a0f)
 * [Albums recently added to SLNSW's Manuscripts, Oral History and Pictures catalogue](http://feeds.feedburner.com/recentalbumsmohp) (RSS, 2013-05-24T01:31:30.334408)
 
-### [New titles added to the collection of the State Library of NSW](https://data.nsw.gov.au/dataset/dd806ef6-e316-410e-bf5c-540311947d5a)
+### [New titles added to the collection of the State Library of NSW](https://data.nsw.gov.au/data/dataset/dd806ef6-e316-410e-bf5c-540311947d5a)
 * [New titles added to the collection of the State Library of New South Wales](http://feeds.feedburner.com/cataloguenewtitlesslnsw) (RSS, 2013-05-24T01:33:05.246041)
 
-### [State Library of NSW Collection Photostream](https://data.nsw.gov.au/dataset/b6922426-8725-4f2e-bcf3-d419a49f61ef)
+### [State Library of NSW Collection Photostream](https://data.nsw.gov.au/data/dataset/b6922426-8725-4f2e-bcf3-d419a49f61ef)
 * [State Library of NSW Collection Photostream](http://www.flickr.com/photos/statelibraryofnsw/) (HTML, 2013-05-23T22:10:39.871133)
 
-### [State Library of NSW GitHub](https://data.nsw.gov.au/dataset/d6bf9721-5489-4b74-982d-6864988fe99c)
+### [State Library of NSW GitHub](https://data.nsw.gov.au/data/dataset/d6bf9721-5489-4b74-982d-6864988fe99c)
 * [State Library of NSW's GitHub account](https://raw.githubusercontent.com/slnsw-webdev) (CSS, Java, PHP, JavaScript, 2016-08-15T16:24:59.271171)
 
-### [WW1 Diary and Letter Transcripts](https://data.nsw.gov.au/dataset/4095e38b-785f-4f3c-917f-d041fce0e408)
+### [WW1 Diary and Letter Transcripts](https://data.nsw.gov.au/data/dataset/4095e38b-785f-4f3c-917f-d041fce0e408)
 * [WW1 Diary and Letter Transcripts API](http://www.sl.nsw.gov.au/api) (API, 2016-07-26T08:26:59.285520)
 
 ## State Library of Queensland
@@ -1632,65 +1632,65 @@
 
 ## State Library of Western Australia
 
-### [Adopt a Soldier](https://data.wa.gov.au/dataset/706ed446-6f0a-42fd-aba5-8e4295675107)
+### [Adopt a Soldier](https://catalogue.data.wa.gov.au/dataset/706ed446-6f0a-42fd-aba5-8e4295675107)
 * [Adopt a Soldier photographs (csv)](https://catalogue.data.wa.gov.au/dataset/706ed446-6f0a-42fd-aba5-8e4295675107/resource/8601e3a3-b983-4a9d-a084-6a86df0939c1/download/adopt-a-soldier-2.csv) (CSV, 2016-07-25T05:38:11.949865)
 * [Adopt a soldier photographs (Marcxml)](https://catalogue.data.wa.gov.au/dataset/706ed446-6f0a-42fd-aba5-8e4295675107/resource/b095414e-acca-4db8-b28e-6675262ced6e/download/adopt-a-soldier2.xml) (XML, 2016-07-25T05:38:56.194713)
 * [Adopt a soldier photographs (Modsxml)](https://catalogue.data.wa.gov.au/dataset/706ed446-6f0a-42fd-aba5-8e4295675107/resource/e418d8f4-7c7b-4bdd-b01f-d1782c383e6e/download/adopt-a-soldier.xml) (XML, 2016-07-25T05:39:33.845838)
 
-### [Bird songs online](https://data.wa.gov.au/dataset/9fc37834-e4ee-4e5a-a798-27da5c5af7da)
+### [Bird songs online](https://catalogue.data.wa.gov.au/dataset/9fc37834-e4ee-4e5a-a798-27da5c5af7da)
 * [Birdsongs Online](https://catalogue.data.wa.gov.au/dataset/9fc37834-e4ee-4e5a-a798-27da5c5af7da/resource/19e93efa-7c78-4b60-aff0-027e54d11320/download/birdsongonlinefinal.csv) (CSV, 2016-07-25T04:43:03.122573)
 * [Bird song Online (Marcxml)](https://catalogue.data.wa.gov.au/dataset/9fc37834-e4ee-4e5a-a798-27da5c5af7da/resource/244c4273-ca1f-42e1-b790-5d74b0e6d741/download/birdsong-onlinemarc.xml) (XML, 2016-07-25T04:43:41.230262)
 * [Bird song Online (Modsxml)](https://catalogue.data.wa.gov.au/dataset/9fc37834-e4ee-4e5a-a798-27da5c5af7da/resource/5aa1da49-c712-4156-9caa-b2034cb857ea/download/birdsong-onlinemods.xml) (XML, 2016-07-25T04:44:30.207899)
 
-### [Digital Photographic Collection](https://data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f)
+### [Digital Photographic Collection](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f)
 * [Pictorial collection_csv](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f/resource/9117bf08-bd54-4b19-89f8-ca86ae799875/download/slwapictorial.csv) (CSV, 2016-07-25T03:56:04.933099)
 * [SLWA Pictorial (Marcxml)](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f/resource/945e7aba-dbf5-46ee-837e-add0625a1a34/download/slwapictorialmarc.xml) (XML, 2016-07-25T03:57:53.580191)
 * [SLWA Pictorial (Modsxml)](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f/resource/f2ae0a9a-02a4-4f40-ba00-914bececc521/download/slwapictorialmods.xml) (XML, 2016-07-25T03:59:29.635904)
 * [SLWA pictorial (zipped dublin core)](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f/resource/7e59adde-931b-4992-a9b9-756dc925ff7c/download/slwapictorial.zip) (ZIP, 2016-07-25T04:00:44.760849)
 * [Pictorial collection urls and captions](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f/resource/270e6f40-8d78-497f-a67f-6ea5d3678590/download/pictorial-collection-brn-caption-image-url.xlsx) (XLSX, 2016-07-25T07:13:06.648045)
 
-### [In Memoriam Cards](https://data.wa.gov.au/dataset/bc4c50bf-3de1-44d1-8484-a07a30bfe974)
+### [In Memoriam Cards](https://catalogue.data.wa.gov.au/dataset/bc4c50bf-3de1-44d1-8484-a07a30bfe974)
 * [In Memoriam Cards (csv)](https://catalogue.data.wa.gov.au/dataset/bc4c50bf-3de1-44d1-8484-a07a30bfe974/resource/16a5e7e1-6f38-4db0-ba23-0fa70a8b6f85/download/in-memoriam.csv) (CSV, 2016-07-25T05:42:57.750044)
 * [In Memoriam Cards (Marcxml)](https://catalogue.data.wa.gov.au/dataset/bc4c50bf-3de1-44d1-8484-a07a30bfe974/resource/7bb0d95e-a6d6-49fa-8de8-c1f3af9e3df7/download/in-memoriam.xml) (XML, 2016-07-25T05:43:37.269242)
 * [In Memoriam Cards (Modsxml)](https://catalogue.data.wa.gov.au/dataset/bc4c50bf-3de1-44d1-8484-a07a30bfe974/resource/2ba88685-0239-4f7e-863d-b585a068ca9d/download/in-memoriam.xml) (XML, 2016-07-25T05:44:10.239163)
 
-### [Krantz & Sheldon Architectural images](https://data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6)
+### [Krantz & Sheldon Architectural images](https://catalogue.data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6)
 * [Krantz Sheldon (CSV)](https://catalogue.data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6/resource/dcdb13de-231d-4018-bac5-043ccf334ba3/download/krantzsheldon.csv) (CSV, 2016-07-25T04:08:49.484677)
 * [Krantz and Sheldon (Zipped)](https://catalogue.data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6/resource/d301a1de-59fb-41c6-9520-5127e0b1380c/download/krantzsheldon.zip) (ZIP, 2016-07-25T04:09:27.386314)
 * [Krantz and Sheldon (Marcxml)](https://catalogue.data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6/resource/e54db226-f9f3-43f1-8c54-fbf632ea6af0/download/krantzsheldonmarc.xml) (XML, 2016-07-25T04:10:23.669075)
 * [Krantz and Sheldon (Modsxml)](https://catalogue.data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6/resource/a6a628de-eb73-4fff-ba1f-82e9e7e3b59f/download/krantzsheldonmods.xml) (XML, 2016-07-25T04:11:08.089351)
 
-### [Lands and Surveys Historic Map Series](https://data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90)
+### [Lands and Surveys Historic Map Series](https://catalogue.data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90)
 * [Historic maps 1880-90 (CSV)](https://catalogue.data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90/resource/c89e6e83-fb0d-457d-bcb7-dbea96156ebf/download/historicmaps18801890.csv) (CSV, 2016-07-25T05:30:13.529027)
 * [Historic maps 1880-90 (Zipped)](https://catalogue.data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90/resource/77546446-4b76-4aea-b04f-922d913614e3/download/historicalmaps.zip) (ZIP, 2016-07-25T05:30:53.584039)
 * [Historic maps 1880-90 (Marcxml)](https://catalogue.data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90/resource/f710d691-bfd5-4ef6-8318-80a56a6e18b8/download/historicmaps18801890marc.xml) (XML, 2016-07-25T05:32:20.344592)
 * [Historic maps 1880-90 (Modsxml)](https://catalogue.data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90/resource/b44a108a-7bf4-48cf-86b0-8268cf28ba73/download/historicmaps18801890mods.xml) (XML, 2016-07-25T05:33:11.010773)
 
-### [Newspaper Titles at State Library of WA](https://data.wa.gov.au/dataset/c8d68516-0eb8-445d-913a-c2f692366150)
+### [Newspaper Titles at State Library of WA](https://catalogue.data.wa.gov.au/dataset/c8d68516-0eb8-445d-913a-c2f692366150)
 * [WA_newspapers_2016](https://catalogue.data.wa.gov.au/dataset/c8d68516-0eb8-445d-913a-c2f692366150/resource/09f32d84-6c5c-46c3-bba7-a05a33f3d48f/download/newspapers-wa.csv) (CSV, 2016-07-25T01:05:00.703381)
 
-### [Obituaries indexed by State Library of WA](https://data.wa.gov.au/dataset/2f8c1a74-8b10-4b58-b3bf-be339fb0fd09)
+### [Obituaries indexed by State Library of WA](https://catalogue.data.wa.gov.au/dataset/2f8c1a74-8b10-4b58-b3bf-be339fb0fd09)
 * [Indexed Obituaries.csv](https://catalogue.data.wa.gov.au/dataset/2f8c1a74-8b10-4b58-b3bf-be339fb0fd09/resource/10a5c9ff-0a35-4c97-8251-153efb70d66b/download/indexed-obituaries.csv) (CSV, 2018-09-04T02:24:23.539112)
 * [Indexed Obituaries.xlsx](https://catalogue.data.wa.gov.au/dataset/2f8c1a74-8b10-4b58-b3bf-be339fb0fd09/resource/9d2da0c6-e3f6-4f34-94b7-81fe7ac34acd/download/indexed-obituaries.xlsx) (XLSX, 2018-09-04T02:25:15.636040)
 * [Indexed Obituaries.docx](https://catalogue.data.wa.gov.au/dataset/2f8c1a74-8b10-4b58-b3bf-be339fb0fd09/resource/cf76884e-1022-464d-8929-b18662d61cfd/download/indexed-obituaries.docx) (DOCX, 2018-09-04T02:25:40.839749)
 
-### [Richard Woldendorp Collection of Photographs](https://data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5)
+### [Richard Woldendorp Collection of Photographs](https://catalogue.data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5)
 * [Richard Woldendorp Photographs.csv](https://catalogue.data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5/resource/a6f426a8-4512-42e8-9add-79abe440e742/download/richard-woldendorp-photographs.csv) (CSV, 2018-08-03T03:02:19.126685)
 * [Richard Woldendorp Collection_mods.xml](https://catalogue.data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5/resource/405f1568-91b7-4800-8432-76ac0253e677/download/richard-woldendorp-collectionmods.xml) (XML, 2018-08-03T03:03:09.410893)
 * [Richard Woldendorp Photographs.xlsx](https://catalogue.data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5/resource/d5d042da-eed4-4d9a-8622-b6def49963e4/download/richard-woldendorp-photographs.xlsx) (XLSX, 2018-08-03T03:03:44.772780)
 * [Richard Woldendorp Collection.xml](https://catalogue.data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5/resource/5310d90a-e88f-4fb0-877a-2c0925afb890/download/richard-woldendorp-collection.xml) (XML, 2018-08-03T03:04:39.444824)
 
-### [SLWA Commonwealth Games photographs](https://data.wa.gov.au/dataset/45357ec0-dd39-4d08-b051-6b7d820cb954)
+### [SLWA Commonwealth Games photographs](https://catalogue.data.wa.gov.au/dataset/45357ec0-dd39-4d08-b051-6b7d820cb954)
 * [SLWA Commonwealth Games minimal metadata](https://catalogue.data.wa.gov.au/dataset/45357ec0-dd39-4d08-b051-6b7d820cb954/resource/2475c22c-b5d9-4b5c-994a-f4a0fac381ef/download/slwa-commonwealth-games-photographs-minimal-metadata.csv) (CSV, 2018-04-04T03:34:33.707594)
 * [SLWA Commonwealth Games metadata](https://catalogue.data.wa.gov.au/dataset/45357ec0-dd39-4d08-b051-6b7d820cb954/resource/8143068d-3786-4a25-ad41-99ae2bdc5e43/download/slwa-commonwealth-games-photographs.csv) (CSV, 2018-04-04T03:35:28.210817)
 * [SLWA commonwealth games Library metadata](https://catalogue.data.wa.gov.au/dataset/45357ec0-dd39-4d08-b051-6b7d820cb954/resource/04befc56-7962-41f6-b00a-08235148b3b2/download/commonwealth-games-marcxml.xml) (XML, 2018-04-04T03:35:50.728114)
 
-### [State Library of Western Australia Digitised Maps 1840-1985](https://data.wa.gov.au/dataset/36bd6d24-69e0-4a0a-a7af-5adb08879be3)
+### [State Library of Western Australia Digitised Maps 1840-1985](https://catalogue.data.wa.gov.au/dataset/36bd6d24-69e0-4a0a-a7af-5adb08879be3)
 * [SLWA Digitised Maps 1840-1985 CSV](https://catalogue.data.wa.gov.au/dataset/36bd6d24-69e0-4a0a-a7af-5adb08879be3/resource/0d8a68b0-f13c-4ee8-8c76-c7d9006587de/download/slwa-digitised-maps-1840-1985.csv) (CSV, 2018-05-22T01:55:04.619387)
 * [SLWA Digitised Maps 1840-1985 MODS](https://catalogue.data.wa.gov.au/dataset/36bd6d24-69e0-4a0a-a7af-5adb08879be3/resource/9fb7313c-f634-4a71-91fe-4f982249dc3e/download/slwa-digitised-maps-1840-1985mods.xml) (XML, 2018-05-22T01:57:13.337426)
 * [SLWA Digitised Maps 1840-1985 MARC](https://catalogue.data.wa.gov.au/dataset/36bd6d24-69e0-4a0a-a7af-5adb08879be3/resource/ee2ed2b9-c14c-46bd-8b99-456c7d1840ee/download/slwa-digitised-maps-1840-1985marc21.xml) (XML, 2018-05-22T01:58:02.896108)
 
-### [State Library of Western Australia: WA Theatre Ephemera](https://data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0)
+### [State Library of Western Australia: WA Theatre Ephemera](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0)
 * [WA Theatre Posters, Programs, Ephemera (CSV)](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0/resource/59080edf-4f59-4446-a2f2-2ca5d4524765/download/wa-theatre-posters-programs-ephemera.csv) (CSV, 2018-06-06T05:42:47.614005)
 * [WA Theatre Posters, Programs, Ephemera (MARC 21)](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0/resource/27a95510-9396-4b32-bf2c-febe9b800fcf/download/wa-theatre-posters-programs-ephemeramarc21.xml) (XML, 2018-06-06T05:43:47.855002)
 * [WA Theatre Posters, Programs, Ephemera (MARC 21)](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0/resource/2e3cb338-ad6a-4fe0-860d-10ed3b8ab059/download/wa-theatre-posters-programs-ephemeramarc21.xml) (XML, 2018-06-06T05:46:08.201133)
@@ -1699,27 +1699,27 @@
 * [WA Theatre venues events people places 1896-1955 (MARC21)](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0/resource/a718a237-4973-4830-94c1-2c464f981728/download/wa-theatre-venues-events-people-places-1896-1955marc21.xml) (XML, 2018-06-06T05:49:04.335586)
 * [WA Theatre venues events people places 1896-1955 (MODS)](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0/resource/f10b6841-a7ab-4c98-93d5-e17e5a794837/download/wa-theatre-venues-events-people-places-1896-1955mods.xml) (XML, 2018-06-06T05:49:36.471559)
 
-### [WA Public Libraries](https://data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234)
+### [WA Public Libraries](https://catalogue.data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234)
 * [WA_Public_Libraries_2021](https://catalogue.data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234/resource/31eabe52-d241-4f21-b9c7-3e3fef6c0bcb/download/libraries20210203.csv) (CSV, 2021-02-04T06:38:54.098297)
 * [Public library addresses in GeoJSON format](https://catalogue.data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234/resource/65cffc73-4a14-4c7a-96c1-8d7145e09155/download/walibraryaddresses.geojson) (GEOJSON, 2016-10-12T06:53:04.677005)
 * [WA Public Library Addresses in KML format](https://catalogue.data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234/resource/1823296c-16b5-4c16-8c4b-9a910fbb6432/download/walibraryaddresses.kml) (KML, 2016-10-12T06:53:48.899195)
 * [WA_Public_Libraries_2016](https://catalogue.data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234/resource/06992def-ffed-4a9c-977d-90fd41a363f7/download/libraries20160206.csv) (CSV, 2016-07-25T01:13:35.150038)
 
-### [WABI Subset: Eastern Goldfields](https://data.wa.gov.au/dataset/ce97329a-e406-4785-9e86-898e8e6ac1ef)
+### [WABI Subset: Eastern Goldfields](https://catalogue.data.wa.gov.au/dataset/ce97329a-e406-4785-9e86-898e8e6ac1ef)
 * [Eastern Goldfields](https://catalogue.data.wa.gov.au/dataset/ce97329a-e406-4785-9e86-898e8e6ac1ef/resource/a45ffdb7-e668-472c-825f-3589d3d4a6d1/download/eastern-goldfields-final.csv) (CSV, 2016-07-28T07:35:57.521334)
 
-### [WABI subset: Police](https://data.wa.gov.au/dataset/dd4ee469-0a8b-4da1-bdc3-962f9f515f5c)
+### [WABI subset: Police](https://catalogue.data.wa.gov.au/dataset/dd4ee469-0a8b-4da1-bdc3-962f9f515f5c)
 * [WABI police subset](https://catalogue.data.wa.gov.au/dataset/dd4ee469-0a8b-4da1-bdc3-962f9f515f5c/resource/bdf8c00f-a77b-4f17-a0f4-106cac836010/download/police-final.csv) (CSV, 2016-07-28T07:51:50.036671)
 
-### [WABI subset: York](https://data.wa.gov.au/dataset/ff75fbbd-7b4d-4c1c-a946-2c5fe3073b8c)
+### [WABI subset: York](https://catalogue.data.wa.gov.au/dataset/ff75fbbd-7b4d-4c1c-a946-2c5fe3073b8c)
 * [York and districts subset](https://catalogue.data.wa.gov.au/dataset/ff75fbbd-7b4d-4c1c-a946-2c5fe3073b8c/resource/908c0417-e1a4-4cb7-84ae-ad06466508bd/download/york-final.csv) (CSV, 2016-07-28T07:58:03.144712)
 
-### [WWI Centenary Project](https://data.wa.gov.au/dataset/8ab80491-45b9-46b7-89ef-e2f29e9b68e4)
+### [WWI Centenary Project](https://catalogue.data.wa.gov.au/dataset/8ab80491-45b9-46b7-89ef-e2f29e9b68e4)
 * [SLWA Centenary WWI](https://catalogue.data.wa.gov.au/dataset/8ab80491-45b9-46b7-89ef-e2f29e9b68e4/resource/e9c4901b-1736-426f-8a1b-0cad6b6a6d47/download/slwacentenarywwi2016.csv) (CSV, 2016-07-25T04:33:36.743768)
 * [SLWA Centenary WWI (Marcxml)](https://catalogue.data.wa.gov.au/dataset/8ab80491-45b9-46b7-89ef-e2f29e9b68e4/resource/b7afc9dc-6b92-4926-afbf-88165e6ebdee/download/slwa-centenarywwi2016marc.xml) (XML, 2016-07-25T04:34:42.292685)
 * [SLWA Centenary WWI (Modsxml)](https://catalogue.data.wa.gov.au/dataset/8ab80491-45b9-46b7-89ef-e2f29e9b68e4/resource/52ea632d-b571-483a-9e3c-90e12614d8dc/download/slwa-centenarywwi2016mods.xml) (XML, 2016-07-25T04:35:30.012607)
 
-### [Western Australian Biographical Index (WABI)](https://data.wa.gov.au/dataset/6c026ce8-8a18-4920-a7e2-f1719e0d8c47)
+### [Western Australian Biographical Index (WABI)](https://catalogue.data.wa.gov.au/dataset/6c026ce8-8a18-4920-a7e2-f1719e0d8c47)
 * [Introducing WABI](https://catalogue.data.wa.gov.au/dataset/6c026ce8-8a18-4920-a7e2-f1719e0d8c47/resource/d8355c12-94ea-4728-9b2f-ddb4fd60d86e/download/introducing-wabi.docx) (DOCX, 2016-07-28T06:02:33.537857)
 * [WABI A-Z Zipped](https://catalogue.data.wa.gov.au/dataset/6c026ce8-8a18-4920-a7e2-f1719e0d8c47/resource/03fca146-01e3-472b-a6f9-30ff5c0cdb45/download/wabi-a-z-zipped.zip) (ZIP, 2016-07-28T06:01:31.009604)
 * [Index entries beginning with A](https://catalogue.data.wa.gov.au/dataset/6c026ce8-8a18-4920-a7e2-f1719e0d8c47/resource/2ef7484c-0268-420f-abab-bbfc33036bf1/download/a-final.csv) (CSV, 2016-07-28T06:03:00.211332)
@@ -1743,10 +1743,10 @@
 
 ## State Records Office of Western Australia
 
-### [Geolocation index for WA townsite plans - AU WA S2168](https://data.wa.gov.au/dataset/7a4f046f-9b1d-4faa-9d42-7f229ca3b5a4)
+### [Geolocation index for WA townsite plans - AU WA S2168](https://catalogue.data.wa.gov.au/dataset/7a4f046f-9b1d-4faa-9d42-7f229ca3b5a4)
 * [Townsite index](https://catalogue.data.wa.gov.au/dataset/7a4f046f-9b1d-4faa-9d42-7f229ca3b5a4/resource/19d31ed3-cbd5-496b-bd4e-7862690e82bf/download/maps-of-wa-townsites-parts-1-2.csv) (CSV, 2017-06-01T16:19:51.089202)
 
-### [Historical Plans - Metropolitan Sewerage Scheme (SRO-001)](https://data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0)
+### [Historical Plans - Metropolitan Sewerage Scheme (SRO-001)](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0)
 * [List of Metropolitan Sewerage Scheme Plans](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0/resource/05c6e8c3-3f66-4980-9ba8-3bdadb1f990f/download/srowa_series634_cons4156.csv) (CSV, 2019-12-10T05:45:51.735541)
 * [Index Sheets to Metropolitan Sewerage Scheme Plans](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0/resource/f72b3ba3-e2b3-4171-a1f1-1de98a0edee1/download/index-sheets-to-metropolitan-sewerage-scheme-plans.pdf) (PDF, 2020-01-16T08:23:45.974272)
 * [Date Range Information for Metropolitan Sewerage Scheme Plans](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0/resource/552e82eb-060a-4f63-8cca-c5a4264256eb/download/date-range-information-for-metropolitan-sewerage-scheme-plans.pdf) (PDF, 2020-02-03T03:25:26.367856)
@@ -1754,20 +1754,20 @@
 * [Web Mapping Service](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Imagery_and_Maps/MapServer/WMSServer) (WMS, 2020-12-08T00:09:03.016220)
 * [Historical Plans - Metropolitan Sewerage Scheme (19GB)](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0/resource/4dfcbd8d-fae7-4010-a377-30814d944217/download/srowa_series634_cons4156.tif) (TIF, 2021-01-18T03:16:32.230550)
 
-### [Historical index to government entities](https://data.wa.gov.au/dataset/6a3df6d1-f889-4059-892f-a335af6e1cc3)
+### [Historical index to government entities](https://catalogue.data.wa.gov.au/dataset/6a3df6d1-f889-4059-892f-a335af6e1cc3)
 * [Agency index](https://catalogue.data.wa.gov.au/dataset/6a3df6d1-f889-4059-892f-a335af6e1cc3/resource/89911fd3-075c-4b5b-82ce-dae1b53ad3b1/download/government-entities-identified-by-srowa.csv) (CSV, 2017-06-01T18:30:47.628843)
 
-### [Index to Western Australian group settlement information](https://data.wa.gov.au/dataset/69bcdc4e-0025-4600-b5d4-a71a46a87b51)
+### [Index to Western Australian group settlement information](https://catalogue.data.wa.gov.au/dataset/69bcdc4e-0025-4600-b5d4-a71a46a87b51)
 * [Index to group settlements in WA](https://catalogue.data.wa.gov.au/dataset/69bcdc4e-0025-4600-b5d4-a71a46a87b51/resource/12ea1737-0e52-4aba-9274-fd892e5c46b0/download/gp-settlements.csv) (CSV, 2017-06-01T16:39:17.820034)
 
-### [Indexes](https://data.wa.gov.au/dataset/69b465f2-602a-4cd9-8bcf-e6fa09a63f50)
+### [Indexes](https://catalogue.data.wa.gov.au/dataset/69b465f2-602a-4cd9-8bcf-e6fa09a63f50)
 * [Index plan 1900](https://catalogue.data.wa.gov.au/dataset/69b465f2-602a-4cd9-8bcf-e6fa09a63f50/resource/622e3deb-526c-490f-8f75-15bc85530f91/download/index-map-1900.jpg) (JPG, 2017-06-29T13:22:49.667226)
 * [Index plan 1949](https://catalogue.data.wa.gov.au/dataset/69b465f2-602a-4cd9-8bcf-e6fa09a63f50/resource/2e73b886-74da-4359-b385-4c07427e391b/download/index-map-1949.jpg) (JPG, 2017-06-29T13:23:18.602192)
 
-### [State Archives online catalogue](https://data.wa.gov.au/dataset/be28f52b-52e9-4d2e-a5ff-27aa1716a903)
+### [State Archives online catalogue](https://catalogue.data.wa.gov.au/dataset/be28f52b-52e9-4d2e-a5ff-27aa1716a903)
 * [State Archive Collection](https://archive.sro.wa.gov.au/) (Website, 2017-03-09T03:45:16.841621)
 
-### [Zotero for archive.sro.wa.gov.au](https://data.wa.gov.au/dataset/55112b78-d248-4974-af49-1c56ba6d4933)
+### [Zotero for archive.sro.wa.gov.au](https://catalogue.data.wa.gov.au/dataset/55112b78-d248-4974-af49-1c56ba6d4933)
 * [zotero-for-archive-sro-wa-gov-au](https://gist.github.com/anonymous/6e588852dc0a22577934fed23e37e795) (app, 2017-07-27T17:13:51.125156)
 
 ## State Records South Australia
@@ -1864,7 +1864,7 @@
 
 ## Western Australian Museum
 
-### [Maritime Archaeological Sites (WAM-001)](https://data.wa.gov.au/dataset/c4d24f2a-6740-4c05-a8ce-0b749d5bae6c)
+### [Maritime Archaeological Sites (WAM-001)](https://catalogue.data.wa.gov.au/dataset/c4d24f2a-6740-4c05-a8ce-0b749d5bae6c)
 * [ArcGIS Server Map Service](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/1) (API ArcGIS Server Map Service, 2019-06-27T01:53:53.124426)
 * [Web Mapping Service](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/People_and_Society/MapServer/WMSServer) (WMS, 2020-08-13T03:19:47.669074)
 * [Web Feature Service](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/People_and_Society_WFS/MapServer/WFSServer) (WFS, 2020-09-07T11:54:18.856756)
@@ -1874,14 +1874,14 @@
 * [Shapefile](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/MaritimeArchaeologicalSitesWAM_001/MaritimeArchaeologicalSitesWAM_001.zip) (ZIP, 2020-11-16T02:39:30)
 * [Service Map Package](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/People_and_Society.mpk) (MPK, 2021-01-06T03:17:50.619019)
 
-### [Shipwrecks (WAM-002)](https://data.wa.gov.au/dataset/bf006416-589e-4d9f-bc46-566ac564c405)
+### [Shipwrecks (WAM-002)](https://catalogue.data.wa.gov.au/dataset/bf006416-589e-4d9f-bc46-566ac564c405)
 * [ArcGIS Server Map Service](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/0) (API ArcGIS Server Map Service, 2019-06-27T01:53:49.811878)
 * [GeoCSV](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/ShipwrecksWAM_002/ShipwrecksWAM_002.csv.zip) (ZIP, 2020-11-16T02:39:28)
 * [GeoJSON](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/ShipwrecksWAM_002/ShipwrecksWAM_002.geojson.zip) (ZIP, 2020-11-16T02:39:27)
 * [GeoPackage](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/ShipwrecksWAM_002/ShipwrecksWAM_002.gpkg.zip) (ZIP, 2020-11-16T02:37:39)
 * [Shapefile](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/ShipwrecksWAM_002/ShipwrecksWAM_002.zip) (ZIP, 2020-11-16T02:39:26)
 
-### [Shipwrecks - Live Sync Beta (WAM-022)](https://data.wa.gov.au/dataset/97584e2e-d973-4009-9332-7dc0504cb383)
+### [Shipwrecks - Live Sync Beta (WAM-022)](https://catalogue.data.wa.gov.au/dataset/97584e2e-d973-4009-9332-7dc0504cb383)
 * [](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer) (, 2020-11-26T07:17:44.054898)
 * [GeoCSV](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/Shipwrecks_LiveSyncBetaWAM_022/Shipwrecks_LiveSyncBetaWAM_022.csv.zip) (ZIP, 2020-11-27T02:44:12)
 * [GeoJSON](https://maps.slip.wa.gov.au/datadownloads/SLIP_Public_Services/People_and_Society/Shipwrecks_LiveSyncBetaWAM_022/Shipwrecks_LiveSyncBetaWAM_022.geojson.zip) (ZIP, 2020-11-27T02:44:08)
