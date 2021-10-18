@@ -603,6 +603,9 @@
 ### [Aboriginal War Census 1915 to 1916](https://data.qld.gov.au/dataset/74824ca8-2ba5-40d2-a7a0-f4d2f69e3dff)
 * [Aboriginal War Census 1915 to 1916](https://www.data.qld.gov.au/dataset/74824ca8-2ba5-40d2-a7a0-f4d2f69e3dff/resource/306fcd00-26ea-44fa-914f-1476732f6b98/download/aboriginal-war-census-returns-1915-1916.csv) (CSV, 2015-07-08T05:51:31.632805)
 
+### [Applications by Selectors 1868-1885](https://data.qld.gov.au/dataset/c56272b9-9159-4f84-8a4a-2eaabd5c7923)
+* [Registers of Applications by Selectors 1868-1885](https://www.data.qld.gov.au/dataset/c56272b9-9159-4f84-8a4a-2eaabd5c7923/resource/95e39f44-f522-4f94-97a2-f21b2589446d/download/registers-of-applications-by-selectors-1868-1885.csv) (CSV, 2020-06-23T23:44:15.361246)
+
 ### [Army Reservist payments 1909 to 1920](https://data.qld.gov.au/dataset/696f4c13-a846-4cf7-8765-a1fdc471f77c)
 * [Army Reservist payments 1909 to 1920](https://www.data.qld.gov.au/dataset/696f4c13-a846-4cf7-8765-a1fdc471f77c/resource/5e8042ce-bfe1-4430-801d-dddeaa61bbd5/download/index-to-army-reservists-1909-1920-.csv) (CSV, 2016-08-16T23:29:26.628723)
 
@@ -648,8 +651,14 @@
 * [South Sea Islanders 1867 to 1908 combined](https://www.data.qld.gov.au/dataset/eae0afa9-681c-4bda-b335-fa0c53ddec96/resource/84afe2e2-0d1a-48f0-8d3c-2d66e8b63f14/download/south-sea-islanders-1867-1908.csv) (CSV, 2017-07-31T16:27:50.490387)
 * [South Sea Islanders 1867 to 1908 combined JSON](https://www.data.qld.gov.au/dataset/eae0afa9-681c-4bda-b335-fa0c53ddec96/resource/97a637a1-2d63-462f-ae8b-d95cf6f5bd04/download/south-sea-islanders-1867-1908.json) (JSON, 2018-09-03T00:56:54.266593)
 
+### [Beaudesert Shire Burials - Logan Village 1878-2000](https://data.qld.gov.au/dataset/ef941e0c-5914-4ba1-865f-bb8596e2b20c)
+* [Beaudesert Shire and Logan Village Burials 1878-2000](https://www.data.qld.gov.au/dataset/ef941e0c-5914-4ba1-865f-bb8596e2b20c/resource/805ae3e2-b2a4-47a7-9d48-ca8152bd646c/download/beaudesert-shire-and-logan-village-burials-1878-2000.csv) (CSV, 2020-06-24T03:38:44.227145)
+
 ### [Boer War 1899 to 1902](https://data.qld.gov.au/dataset/6ccfc1d7-c9cf-4df9-a1bd-8e7d2f9f9f50)
 * [Index to Boer War Records 1899-1902](https://www.data.qld.gov.au/dataset/6ccfc1d7-c9cf-4df9-a1bd-8e7d2f9f9f50/resource/5955c95c-c2d0-47c5-b0e3-5ea08495b00e/download/index-to-boer-war-records-1899-1901.csv) (CSV, 2018-12-14T03:09:26.311259)
+
+### [Brisbane Gaol Hospital Admission registers 1889-1911](https://data.qld.gov.au/dataset/b6533ad0-f099-4363-ab3e-69b10e4fe62f)
+* [Index to Brisbane Gaol Hospital Admission Registers 1889-1911](https://www.data.qld.gov.au/dataset/b6533ad0-f099-4363-ab3e-69b10e4fe62f/resource/2d97e9cd-d8bf-4733-b44f-d4b084786cb0/download/index-to-brisbane-gaol-hospital-admission-registers-1889-1911.csv) (CSV, 2020-06-24T02:27:16.052406)
 
 ### [Brisbane Hospital admissions 1872 to 1887](https://data.qld.gov.au/dataset/9ce049c6-e8b7-46f9-b859-7cfd427ac7fd)
 * [Brisbane Hospital admissions 1872 to 1887](https://www.data.qld.gov.au/dataset/9ce049c6-e8b7-46f9-b859-7cfd427ac7fd/resource/93a375da-8ab0-4a01-b97d-a58e120021b2/download/brisbane-hospital-admissions-1872-1887.csv) (CSV, 2014-09-29T03:59:04.891255)
@@ -675,6 +684,9 @@
 ### [Card index to nominated immigrants 1908 to 1922](https://data.qld.gov.au/dataset/74de1b90-7a77-48ec-b8ef-05cd0eff1e23)
 * [Nominated immigrants 1908 to 1922](https://www.data.qld.gov.au/dataset/74de1b90-7a77-48ec-b8ef-05cd0eff1e23/resource/117c0985-e3e8-45f0-8c04-9cf52d9f9691/download/nominated-immigrants-1908-1922.csv) (CSV, 2013-06-25T20:11:46.853462)
 * [Nominated immigrants 1908 to 1922 JSON](https://www.data.qld.gov.au/dataset/74de1b90-7a77-48ec-b8ef-05cd0eff1e23/resource/2243a54a-2cd4-4afd-8532-68acecbd683a/download/nominated-immigrants-1908-1922.json) (JSON, 2018-09-04T05:44:43.139850)
+
+### [Cases & treatment Moreton Bay Hospital 1830-1862](https://data.qld.gov.au/dataset/163c7561-e6ca-4f81-8cab-9635d722909e)
+* [Index to Register of  Cases and treatment at Moreton Bay Hospital 1830-1862](https://www.data.qld.gov.au/dataset/163c7561-e6ca-4f81-8cab-9635d722909e/resource/57b87b52-18f6-49c5-94fb-8b82fdd8c44d/download/register-cases-treatment-moreton-bay-hospital-1830-1862.csv) (CSV, 2020-06-28T23:45:29.482779)
 
 ### [Civil servants 1866 to 1867](https://data.qld.gov.au/dataset/c2201299-0277-46c5-9589-374bf6bcc38f)
 * [Civil servants 1866 - 1867](https://www.data.qld.gov.au/dataset/c2201299-0277-46c5-9589-374bf6bcc38f/resource/4614bd84-c2d9-475d-9610-7ca26c78b72b/download/civil-servants-1866-1867.csv) (CSV, 2014-06-24T01:13:37.732201)
@@ -711,6 +723,16 @@
 * [Divorces 1861-1894](https://www.data.qld.gov.au/dataset/311d7008-5f29-4419-a50c-c490607e2373/resource/9db95d63-c79c-4224-8811-6d414765089a/download/divorces-1861-1899.csv) (CSV, 2013-03-04T00:20:34.044969)
 * [Divorces 1861-1894 JSON](https://www.data.qld.gov.au/dataset/311d7008-5f29-4419-a50c-c490607e2373/resource/f3ed2147-2a0c-42e2-9165-1466a16f6433/download/divorces-1861-1894.json) (JSON, 2018-09-04T05:41:11.129993)
 
+### [Dunwich Benevolent Asylum records](https://data.qld.gov.au/dataset/10a4b7e2-dc85-4c5a-98a4-705f61685392)
+* [Index to Dunwich Benevolent Asylum 1885-1907](https://www.data.qld.gov.au/dataset/10a4b7e2-dc85-4c5a-98a4-705f61685392/resource/d0a577d7-d0b6-4ad7-9645-83998b5d89b0/download/dunwich-benevolent-asylum-1885-1907.csv) (CSV, 2021-01-19T02:12:26.448370)
+* [Index to Dunwich Benevolent Asylum 1859-1948](https://www.data.qld.gov.au/dataset/10a4b7e2-dc85-4c5a-98a4-705f61685392/resource/8af229f9-8695-492b-9425-8e9576f644f5/download/indexes-to-dunwich-benevolent-asylum-1859-1948.csv) (CSV, 2020-08-06T01:52:47.171887)
+
+### [Education Office Gazette Scholarships 1900 - 1940](https://data.qld.gov.au/dataset/eba4f2f5-f4b5-4a6c-90f7-098ef6625c6b)
+* [Scholarships in the Education Office Gazette 1900 - 1940](https://www.data.qld.gov.au/dataset/eba4f2f5-f4b5-4a6c-90f7-098ef6625c6b/resource/da64a88a-4e4a-46fa-bb7c-63372fae313d/download/scholarships-in-the-education-office-gazettes-1900-1940.csv) (CSV, 2020-06-24T01:58:01.547471)
+
+### [Engagement of Immigrants at the Immigration Depot - Bowen 1873-1912](https://data.qld.gov.au/dataset/fa8cb500-4fc9-482c-ae64-3c05c81fb023)
+* [Register of the Engagement of Immigrants at the Immigration Depot - Bowen 1873-1912](https://www.data.qld.gov.au/dataset/fa8cb500-4fc9-482c-ae64-3c05c81fb023/resource/291e8205-c965-4793-b3ae-b5e998d94f40/download/index-to-register-of-immigrants-bowen-1873-1912.csv) (CSV, 2020-06-29T02:54:05.183257)
+
 ### [Equity files 1857 to 1899](https://data.qld.gov.au/dataset/1364e928-ed55-49d8-92ef-856fa52395c8)
 * [Equity files 1857 to 1899](https://www.data.qld.gov.au/dataset/1364e928-ed55-49d8-92ef-856fa52395c8/resource/80c49c0a-36f8-47ab-a3ae-a63682385637/download/equity-files-1857-1899.csv) (CSV, 2013-03-03T23:48:22.785307)
 * [Equity files 1857 to 1899 JSON](https://www.data.qld.gov.au/dataset/1364e928-ed55-49d8-92ef-856fa52395c8/resource/d7e59200-7134-4a4e-aaed-1901b602ad2e/download/equity-files-1857-1899.json) (JSON, 2018-09-04T05:29:33.945151)
@@ -723,6 +745,18 @@
 * [Hydrographic Charts 1802-2013](https://www.data.qld.gov.au/dataset/5b5e80a7-371b-4365-9280-37dca0f6ed0d/resource/f15c312b-a290-406a-9676-5cdaa11fafa2/download/hydrographic-charts-1802-2013.csv) (CSV, 2018-04-13T05:38:49.973132)
 * [Hydrographic Charts 1802-2013 JSON](https://www.data.qld.gov.au/dataset/5b5e80a7-371b-4365-9280-37dca0f6ed0d/resource/5ce67190-7ac8-44bd-a430-65882ad91cb4/download/hydrographic-charts-1802-2013.json) (JSON, 2018-09-03T23:42:15.873875)
 
+### [Immigrants Promissory Notes (Maryborough)](https://data.qld.gov.au/dataset/198f15d3-e781-4893-9310-b3691a48f3d2)
+* [Registers of Immigrants Promissory Notes (Maryborough)](https://www.data.qld.gov.au/dataset/198f15d3-e781-4893-9310-b3691a48f3d2/resource/8e1baf64-562c-426d-adec-a0b6d6d21bcb/download/register-immigrants-maryborough-1874-1903.csv) (CSV, 2021-07-23T01:11:48.858438)
+
+### [Immigrants and Crew 1860-1865 (COL/A)](https://data.qld.gov.au/dataset/8f59a9eb-af92-4cfc-9444-ce7e0c317acf)
+* [Index to Immigrants and Crew 1860 - 1964](https://www.data.qld.gov.au/dataset/8f59a9eb-af92-4cfc-9444-ce7e0c317acf/resource/97055820-4ec2-429d-92ab-4de0e90ecb81/download/index-to-immigrants-and-crew-1860-1864-colonial-secretary-letters-sid-5253.csv) (CSV, 2020-06-24T03:20:10.756080)
+
+### [Immigrants, Bowen Immigration Depot 1885-1892](https://data.qld.gov.au/dataset/b8de8a10-2974-4bad-a9ec-4b2bbe619523)
+* [Immigrants, Bowen Immigration Depot 1885-1892](https://www.data.qld.gov.au/dataset/b8de8a10-2974-4bad-a9ec-4b2bbe619523/resource/ab195820-65b1-4654-859a-8b790195cccd/download/immigrants-bowen-immigration-depot-1885-1892.csv) (CSV, 2021-07-22T23:07:02.822837)
+
+### [Immigration 1909-1932](https://data.qld.gov.au/dataset/54f314df-f2a0-4813-ae28-cf73e39cf552)
+* [Index to Immigration 1909-1932](https://www.data.qld.gov.au/dataset/54f314df-f2a0-4813-ae28-cf73e39cf552/resource/c4f3efcb-5912-4436-a84a-d5734925a533/download/index-to-immigration-1909-1932.csv) (CSV, 2020-06-30T00:57:01.496848)
+
 ### [Immigration 1922 to 1940](https://data.qld.gov.au/dataset/34e0e222-b4da-4d8d-9512-a1d7ed80ffcd)
 * [Immigration 1922 to 1940](https://www.data.qld.gov.au/dataset/34e0e222-b4da-4d8d-9512-a1d7ed80ffcd/resource/4ec2d8c1-da1d-496e-b244-ff34973f4834/download/immigration-1922-1940.csv) (CSV, 2013-06-25T20:46:30.336915)
 * [Immigration 1922 to 1940 JSON](https://www.data.qld.gov.au/dataset/34e0e222-b4da-4d8d-9512-a1d7ed80ffcd/resource/4d29094c-ae65-464b-ae6b-3e40cc458106/download/immigration-1922-1940.json) (JSON, 2018-09-04T04:33:18.189526)
@@ -734,6 +768,9 @@
 ### [Imperial pensions 1872 to 1915](https://data.qld.gov.au/dataset/2d77d70c-ff4d-407c-a65c-4b1937a11842)
 * [Imperial pensions 1898 to 1912](https://www.data.qld.gov.au/dataset/2d77d70c-ff4d-407c-a65c-4b1937a11842/resource/fa62cc28-ecb8-44cd-a2d5-d8f9cbe34df1/download/imperial-pensions-1898-1912.csv) (CSV, 2014-06-23T23:20:32.585765)
 * [Imperial pensions 1872 to 1915](https://www.data.qld.gov.au/dataset/2d77d70c-ff4d-407c-a65c-4b1937a11842/resource/3416b4c1-b2ab-40cd-a7af-4b24c5f5c906/download/imperial-pensions-1872-1915.csv) (CSV, 2014-06-23T23:22:43.734193)
+
+### [Index to Correspondence of Queensland Colonial Secretary 1859-1861](https://data.qld.gov.au/dataset/982569e3-2be7-4ea4-aa58-3093e854b541)
+* [Index to Colonial Secretary s Correspondence Bundles 1859 - 1861.csv](https://www.data.qld.gov.au/dataset/982569e3-2be7-4ea4-aa58-3093e854b541/resource/b6e99bc9-c745-4d52-bef0-5d6da14ae538/download/index-to-colonial-secretary-s-correspondence-bundles-1859-1861.csv) (CSV, 2018-12-17T05:11:58.767974)
 
 ### [Indigence Cases 1899 to 1948](https://data.qld.gov.au/dataset/e890753e-18c8-4867-85c4-85a5d8baf457)
 * [Indigence cases 1899 to 1948](https://www.data.qld.gov.au/dataset/e890753e-18c8-4867-85c4-85a5d8baf457/resource/cd341174-5105-4c74-9e83-09944dca58c7/download/indigence-cases-1899-1948.csv) (CSV, 2016-08-16T23:42:46.981054)
@@ -757,6 +794,15 @@
 
 ### [Land orders 1865 to 1866](https://data.qld.gov.au/dataset/ffad056d-2bd0-4cb4-bf47-483cab235072)
 * [Land orders 1865 to 1866](https://www.data.qld.gov.au/dataset/ffad056d-2bd0-4cb4-bf47-483cab235072/resource/52385733-f98a-4ef4-8c1f-0085c7cb0bd5/download/lands-orders-1865-1866.csv) (CSV, 2016-02-22T23:30:40.706081)
+
+### [Land selections 1885-1981](https://data.qld.gov.au/dataset/03e462ee-9ad3-4974-a770-e536cf827bd0)
+* [Land selections 1885-1981](https://www.data.qld.gov.au/dataset/03e462ee-9ad3-4974-a770-e536cf827bd0/resource/54cbd1ea-03a8-4b59-b478-526001663226/download/land-selections-1885-1891.csv) (CSV, 2021-07-23T02:34:44.387239)
+
+### [Lazaret patient registers](https://data.qld.gov.au/dataset/0e9439a4-1d31-49bc-a915-070723363899)
+* [Lazaret Patient Registers](https://www.data.qld.gov.au/dataset/0e9439a4-1d31-49bc-a915-070723363899/resource/352b8cb7-d9b4-4441-8140-d32623508347/download/lazaret-patient-registers-1892-1940.csv) (CSV, 2021-08-02T04:02:56.057025)
+
+### [Leases, Selections and Pastoral Runs and other related records 1850-2014](https://data.qld.gov.au/dataset/72bf362f-3e2c-489b-8da5-2f644d576175)
+* [Leases, Selections and Pastoral Runs and other related records 1850-2014](https://www.data.qld.gov.au/dataset/72bf362f-3e2c-489b-8da5-2f644d576175/resource/02e8db0e-bab4-4ea1-9afa-386294a7feff/download/leases-selections-and-pastoral-runs-and-other-related-records-1850-2014.csv) (CSV, 2020-06-29T03:17:18.733534)
 
 ### [List of Queensland State Archives First World War records](https://data.qld.gov.au/dataset/63430b99-b12c-4285-9674-042baa155423)
 * [First World War records](https://www.data.qld.gov.au/dataset/63430b99-b12c-4285-9674-042baa155423/resource/b98870f4-324e-49e8-bfff-a64292956131/download/first-world-war-records.csv) (CSV, 2015-04-20T03:56:14.425823)
@@ -802,6 +848,9 @@
 * [Oronsay immigration 1925 to 1972](https://www.data.qld.gov.au/dataset/eea439b1-f2c9-4ee3-858f-e4583b52f344/resource/fbdbc235-45c3-4f55-96c4-29acfdd04c86/download/oronsay-immigration-1925-1972.csv) (CSV, 2015-05-28T05:32:02.763698)
 * [Oronsay immigration 1925 to 1972 JSON](https://www.data.qld.gov.au/dataset/eea439b1-f2c9-4ee3-858f-e4583b52f344/resource/e590bab9-6417-4843-b4c1-a9b4f29a91ce/download/oronsay-immigration-1925-1972.json) (JSON, 2018-08-30T02:11:58.505089)
 
+### [Outdoor Relief 1900-1904](https://data.qld.gov.au/dataset/2137a9c3-3931-4637-aca7-3ce1b5e2b00a)
+* [Index to Outdoor Relief 1892-1920](https://www.data.qld.gov.au/dataset/2137a9c3-3931-4637-aca7-3ce1b5e2b00a/resource/5b13b407-589c-4ecb-9fe8-cb457c3e4332/download/index-to-outdoor-relief-1892-1920.csv) (CSV, 2020-06-29T23:55:21.137578)
+
 ### [Passage certificates 1887 to 1906](https://data.qld.gov.au/dataset/8a682383-88a8-4799-8c18-3845040daef3)
 * [Passage certificates 1887 to 1906](https://www.data.qld.gov.au/dataset/8a682383-88a8-4799-8c18-3845040daef3/resource/c0127f32-3ebe-4aea-b360-b3e5cfcda6f3/download/passage-certificates-1887-1906.csv) (CSV, 2013-06-25T20:41:04.137259)
 * [Passage certificates 1887 to 1906 JSON](https://www.data.qld.gov.au/dataset/8a682383-88a8-4799-8c18-3845040daef3/resource/b8889ae7-fa1d-456d-8127-29b0f6470a99/download/passage-certificates-1887-1906.json) (JSON, 2018-09-04T04:08:57.735706)
@@ -809,9 +858,27 @@
 ### [Passport registers 1926 to 1939](https://data.qld.gov.au/dataset/fc87f25a-dc02-4802-910f-bc72eb5ed70e)
 * [Passport clearances 1923 to 1940](https://www.data.qld.gov.au/dataset/fc87f25a-dc02-4802-910f-bc72eb5ed70e/resource/5beccc15-89ec-4331-94dd-30d864cc5d12/download/passport-clearances-1923-1940.csv) (CSV, 2017-01-11T23:47:35.449465)
 
+### [Pensions 1908-1919](https://data.qld.gov.au/dataset/85d0b672-ef16-4bee-9928-bd07074bb55a)
+* [Index to  Pensions 1908-1909](https://www.data.qld.gov.au/dataset/85d0b672-ef16-4bee-9928-bd07074bb55a/resource/d11e06e9-6fb3-40e4-9a56-d3dcc6c11b68/download/index-to-pensions-1908-1909-sid-6578.csv) (CSV, 2020-06-28T23:04:20.871846)
+
+### [Perpetual Lease Selections of soldier settlements 1917 - 1929](https://data.qld.gov.au/dataset/67801dc9-2d9d-466b-a14a-9e95438ffcb9)
+* [Perpetual Lease Selections of soldier settlements 1917-1929](https://www.data.qld.gov.au/dataset/67801dc9-2d9d-466b-a14a-9e95438ffcb9/resource/b788fee7-2a82-40e0-b3b8-4ceb386985e0/download/perpetual-lease-selections-of-soldier-settlement-1917-1929-.csv) (CSV, 2018-11-13T06:45:32.921659)
+
+### [Photographic records of prisoners 1875-1913](https://data.qld.gov.au/dataset/e3de3131-575b-46d4-946b-82ed0949b7da)
+* [Photographic Records of Prisoners 1875-1913](https://www.data.qld.gov.au/dataset/e3de3131-575b-46d4-946b-82ed0949b7da/resource/41012857-f937-4a6b-9618-0d3fecff64b3/download/photographic-records-of-prisoners-1875-1913.csv) (CSV, 2021-01-19T01:19:15.449545)
+
+### [Pneumonic influenza patients, Wallangarra Quarantine Compound](https://data.qld.gov.au/dataset/d380e5ef-f245-448c-ba63-7149b5df9968)
+* [Index to Wallangarra Flu Camp 1918-1919](https://www.data.qld.gov.au/dataset/d380e5ef-f245-448c-ba63-7149b5df9968/resource/b9d592a5-e6e4-408c-a1f9-8971687d29fe/download/index-to-wallangarra-flu-camp-1918-1919-.csv) (CSV, 2021-07-26T02:08:47.067177)
+
+### [Queensland State Archives' digitised collection](https://data.qld.gov.au/dataset/2793ae3a-48cc-4b00-9191-c48fcf825175)
+* [Queensland State Archives' digital collection](https://www.data.qld.gov.au/dataset/2793ae3a-48cc-4b00-9191-c48fcf825175/resource/2bd374bc-ca0d-4903-ba54-11109f91cb88/download/version-0.1-qsa-archie-index-opendata-csv-c.csv) (CSV, 2021-02-15T04:14:53.067450)
+
 ### [Recordkeeping Survey of Queensland Public Authorities, 2014-15](https://data.qld.gov.au/dataset/0d8e0095-4183-4e77-a75b-217cfdc2b224)
 * [Recordkeeping Survey of Queensland Public Authorities, 2014-15](https://www.data.qld.gov.au/dataset/0d8e0095-4183-4e77-a75b-217cfdc2b224/resource/e3489267-7a15-4944-939c-138d6a59d35e/download/recordkeeping-survey-of-queensland-public-authorities-2014-15.csv) (CSV, 2016-04-06T04:28:03.514548)
 * [Recordkeeping Survey of Queensland Public Authorities, 2014-15, Data Dictionary](https://www.data.qld.gov.au/dataset/0d8e0095-4183-4e77-a75b-217cfdc2b224/resource/8861b6b6-5b08-4a13-bad0-6217ed07aa2f/download/recordkeeping-survey-of-queensland-public-authorities-2014-15-open-data-dictionary.csv) (CSV, 2016-04-06T04:39:00.509761)
+
+### [Redeemed land orders 1860-1906](https://data.qld.gov.au/dataset/9af53e64-10ef-4c34-8329-9ace7df871d2)
+* [Redeemed land orders 1860-1907](https://www.data.qld.gov.au/dataset/9af53e64-10ef-4c34-8329-9ace7df871d2/resource/f6eb0873-8793-434d-a73c-97d1d4404a3a/download/redeemed-land-orders-1860-1906.csv) (CSV, 2021-07-21T22:18:42.328293)
 
 ### [Reformatory School for Boys admissions 1871 to 1906](https://data.qld.gov.au/dataset/42636bbc-0d97-4385-8cca-80f56025db08)
 * [Reformatory School for Boys admissions 1871 to 1906](https://www.data.qld.gov.au/dataset/42636bbc-0d97-4385-8cca-80f56025db08/resource/efe812eb-c3ea-4713-8536-b5f436690dce/download/westbrook-reformatory-admission-registerss-1871-1906.csv) (CSV, 2014-11-03T05:02:07.517622)
@@ -840,6 +907,12 @@
 * [Index to Alphabetical register of Pastoral Holdings 1863-1880](https://www.data.qld.gov.au/dataset/40b98318-11ab-4c1b-8e41-9b11a2db6071/resource/460e3f22-df6f-4a84-9b67-7fc4b412c9c1/download/index-to-alphabetical-register-of-pastoral-holdings-1863-1880.csv) (CSV, 2016-04-06T06:57:08.631592)
 * [Alphabetical register of Pastoral Holdings 1863-1880 JSON](https://www.data.qld.gov.au/dataset/40b98318-11ab-4c1b-8e41-9b11a2db6071/resource/0239b554-dcb1-447b-b828-69536ae2fb45/download/alphabetical-register-of-pastoral-holdings-1863-1880.json) (JSON, 2018-09-05T02:09:59.222331)
 
+### [Registers of Agricultural Lessees 1885-1908](https://data.qld.gov.au/dataset/dac1c5bb-0aa6-49fe-9d7b-b971b7fb25ed)
+* [Index to Registers of Agricultural Lessees 1885-1908](https://www.data.qld.gov.au/dataset/dac1c5bb-0aa6-49fe-9d7b-b971b7fb25ed/resource/21643f9d-14ec-42dd-8629-8ecdf766cc4f/download/index-to-registers-of-agricultural-lessees-1885-1908.csv) (CSV, 2020-06-29T05:13:35.644327)
+
+### [Registers of Immigrants, Rockhampton 1882-1915](https://data.qld.gov.au/dataset/51584b7e-7e76-43aa-bdbf-ae1b308301ca)
+* [Index to Registers of Immigrants, Rockhampton 1882-1915](https://www.data.qld.gov.au/dataset/51584b7e-7e76-43aa-bdbf-ae1b308301ca/resource/3d063806-75c3-4a78-98dd-c142645da26c/download/index-to-registers-of-immigrants-rockhampton-1882-1915.csv) (CSV, 2020-06-29T06:04:14.253870)
+
 ### [Registers of immigrants 1882 to 1938](https://data.qld.gov.au/dataset/3b20c3ba-a9a9-4f39-b35a-9edb642fe6be)
 * [Registers of immigrants 1882 to 1938 A-K](https://www.data.qld.gov.au/dataset/3b20c3ba-a9a9-4f39-b35a-9edb642fe6be/resource/2fd8cf6e-014c-4b6a-9b5d-14b778f58980/download/register-of-assisted-immigrants-1882-1938-a-k.csv) (CSV, 2015-01-27T04:18:07.600163)
 * [Registers of immigrants 1882 to 1938 L-Z](https://www.data.qld.gov.au/dataset/3b20c3ba-a9a9-4f39-b35a-9edb642fe6be/resource/6803f218-a168-4b35-8495-45a10a9dabe2/download/register-of-assisted-immigrants-1882-1938-l-z.csv) (CSV, 2017-01-12T00:39:49.914478)
@@ -859,6 +932,9 @@
 ### [School Inspectors' Reports 1974-1991](https://data.qld.gov.au/dataset/d1ade7c0-1265-45d8-a2df-f26016aaa27c)
 * [School Inspectors' Reports 1974-1991](https://www.data.qld.gov.au/dataset/d1ade7c0-1265-45d8-a2df-f26016aaa27c/resource/0ceb4ab3-c5fe-49a6-8826-2dc94b44a40c/download/school-inspectors-reports-1874-1991.csv) (CSV, 2018-04-11T03:40:33.483460)
 * [School Inspectors' Reports 1974-1991 JSON](https://www.data.qld.gov.au/dataset/d1ade7c0-1265-45d8-a2df-f26016aaa27c/resource/2194f9a8-784b-4308-a19d-4f551aa32acd/download/school-inspectors-reports-1874-1991.json) (JSON, 2018-09-04T04:41:36.967068)
+
+### [School inspectors reports 1872-1875](https://data.qld.gov.au/dataset/28836b75-3c78-4854-ba00-f8b0aaa05fe2)
+* [Index to School Inspectors Reports 1872-1875](https://www.data.qld.gov.au/dataset/28836b75-3c78-4854-ba00-f8b0aaa05fe2/resource/96b6dd8a-6e26-4c42-987e-b4183de0d80c/download/index-to-school-inspectors-reports-1872-1875.csv) (CSV, 2020-06-30T05:48:14.644194)
 
 ### [Seamen 1882 to 1919](https://data.qld.gov.au/dataset/f2a5a173-f234-4234-9851-427adf3efc11)
 * [Seamen 1882 to 1919](https://www.data.qld.gov.au/dataset/f2a5a173-f234-4234-9851-427adf3efc11/resource/9d20d789-8d9a-4371-8dd0-e79a6961f7e4/download/register-of-seamen-1882-1919.csv) (CSV, 2014-06-23T23:31:51.999156)
@@ -890,6 +966,9 @@
 
 ### [Teachers 1860 to 1905](https://data.qld.gov.au/dataset/ca2bf49a-6f27-47b9-8be8-7f09649b97a7)
 * [Teachers 1860 to 1905](https://www.data.qld.gov.au/dataset/ca2bf49a-6f27-47b9-8be8-7f09649b97a7/resource/89c60504-76f5-4a71-98e6-9179c87b1a91/download/combined-teachers-1860-1905.csv) (CSV, 2015-07-01T04:21:24.083543)
+
+### [Teachers in the Education Office Gazettes 1899-1925](https://data.qld.gov.au/dataset/994c6866-4118-4661-a11b-b924f906acda)
+* [Teachers in the Education Office Gazettes 1899-1925](https://www.data.qld.gov.au/dataset/994c6866-4118-4661-a11b-b924f906acda/resource/51363722-c062-4a3f-ac7c-d86a847a715b/download/teachers-in-the-education-office-gazettes-1899-1925.csv) (CSV, 2020-06-29T05:18:27.088510)
 
 ### [Toowoomba Girls Industrial School admissions  and discharges 1881 to 1903](https://data.qld.gov.au/dataset/a7f789f9-0297-42b5-bbfc-171d9e620562)
 * [Toowoomba Girls Industrial School admissions and discharges 1881 to 1903](https://www.data.qld.gov.au/dataset/a7f789f9-0297-42b5-bbfc-171d9e620562/resource/be8a7998-1915-4561-9460-1ef346a68004/download/index-to-admissions-and-discharges-1881-1903-toowoomba-industrial-school-for-girls.csv) (CSV, 2014-11-03T04:23:36.878067)
