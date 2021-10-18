@@ -1695,19 +1695,19 @@
 ## State Library of Victoria
 
 ### [Argus Historical Newspaper Front Pages](https://www.data.vic.gov.au/data/dataset/fdf4917b-a71a-4d1c-a792-8cb1e49cfdd8)
-* [Argus historical newspaper front pages](https://raw.githubusercontent.com/statelibraryvic/opendata/argus_newspaper_frontpages.csv) (CSV, 2017-09-28T07:29:13.631362)
+* [Argus historical newspaper front pages](https://raw.githubusercontent.com/statelibraryvic/opendata/master/argus_newspaper_frontpages.csv) (CSV, 2017-09-28T07:29:13.631362)
 
 ### [Melbourne City Landmarks - Historical Images](https://www.data.vic.gov.au/data/dataset/e651b9e7-e47e-4959-a9d9-825ec42e5c1c)
-* [Melbourne City Landmarks](https://raw.githubusercontent.com/statelibraryvic/opendata/blob/melbourne_city_landmarks.csv) (CSV, 2017-03-29T13:57:38.520962)
+* [Melbourne City Landmarks](https://raw.githubusercontent.com/statelibraryvic/opendata/master/melbourne_city_landmarks.csv) (CSV, 2017-03-29T13:57:38.520962)
 
 ### [Melbourne and Metropolitan Board of Works (MMBW) - Historical plans](https://www.data.vic.gov.au/data/dataset/52d9a583-8edf-4f9a-93a3-278a3a28c1d1)
-* [Melbourne and Metropolitan Board of Works (MMBW) - Historical plans](https://raw.githubusercontent.com/statelibraryvic/opendata/blob/melbourne_and_metropolitan_board_of_works_plans.csv) (CSV, 2017-03-29T14:22:44.095653)
+* [Melbourne and Metropolitan Board of Works (MMBW) - Historical plans](https://raw.githubusercontent.com/statelibraryvic/opendata/master/melbourne_and_metropolitan_board_of_works_plans.csv) (CSV, 2017-03-29T14:22:44.095653)
 
 ### [Melbourne and metropolitan hotels, pubs and publicans - Historical Lists](https://www.data.vic.gov.au/data/dataset/b227d8e7-88f0-4c9e-8ab9-dcc89da0b619)
-* [Melbourne and metropolitan hotels, pubs and publicans](https://raw.githubusercontent.com/statelibraryvic/opendata/blob/melbourne_and_metropolitan_hotels_pubs_and_publicans.csv) (CSV, 2017-03-29T14:05:06.884608)
+* [Melbourne and metropolitan hotels, pubs and publicans](https://raw.githubusercontent.com/statelibraryvic/opendata/master/melbourne_and_metropolitan_hotels_pubs_and_publicans.csv) (CSV, 2017-03-29T14:05:06.884608)
 
 ### [Victorian Hotels - Historical Images](https://www.data.vic.gov.au/data/dataset/e213c601-315e-430e-b308-1faca7964f99)
-* [Victorian hotels](https://raw.githubusercontent.com/statelibraryvic/opendata/blob/victorian_hotels.csv) (CSV, 2017-03-29T14:12:01.935326)
+* [Victorian hotels](https://raw.githubusercontent.com/statelibraryvic/opendata/master/victorian_hotels.csv) (CSV, 2017-03-29T14:12:01.935326)
 
 ## State Library of Western Australia
 
