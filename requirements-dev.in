@@ -1,0 +1,12 @@
+-c requirements.txt
+datasette @ git+https://github.com/wragge/datasette.git@add-timeout
+sqlite-utils
+markdown2
+datasette-search-all
+pytest
+nbval
+black[jupyter]
+isort
+flake8
+nbqa
+pre-commit

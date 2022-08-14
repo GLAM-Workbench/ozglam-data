@@ -1,0 +1,36 @@
+type: install
+name: OzGLAM data (GLAM Workbench)
+
+settings:
+    fields:
+      - hideLabel: false
+        hidden: false
+        type: string
+        inputType: password
+        required: true
+        caption: Set a password for Jupyter
+        name: jupyterPassword
+
+onInstall:
+    - cmd[cp]: chown -R jovyan:jovyan /home/jovyan/work
+    - cmd[cp]: python3 -c "from notebook.auth import passwd; print(passwd('${settings.jupyterPassword}', 'sha1'))"
+    - api:
+        - method: environment.control.SetContainerRunCmd
+          params:
+            nodeId: ${nodes.cp[0].id}
+            data: "jupyter lab --ip 0.0.0.0 --ServerApp.password='${response.out}' --LabApp.default_url='/lab/tree/index.ipynb'"
+        - method: environment.control.RestartNodes
+          params:
+            nodeGroup: cp
+nodes:
+    nodeGroup: cp
+    cloudlets: 16
+    image: "quay.io/glamworkbench/ozglam-data:latest"
+    entrypoint: /usr/local/bin/repo2docker-entrypoint
+    volumes:
+        - /home/jovyan/work
+
+ssl: true
+success: |
+  **Juyter notebook URL**: [https://${env.domain}/](https://${env.domain}/)
+  **Password**: ${settings.jupyterPassword}

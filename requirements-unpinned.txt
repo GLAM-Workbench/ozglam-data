@@ -1,5 +1,0 @@
-pandas
-requests
-jupyter
-tqdm
-requests-cache

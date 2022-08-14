@@ -1,0 +1,10 @@
+pandas
+requests
+jupyterlab
+tqdm
+requests-cache
+python-slugify
+ipywidgets
+csv-diff
+arrow
+upsetplot

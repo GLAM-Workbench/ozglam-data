@@ -1,0 +1,41 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "GLAM-Workbench/ozglam-data",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/GLAM-Workbench/ozglam-data/tree/v1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/glam-data-portals/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2022-08-14",
+  "creators": [
+    {
+      "name": "Sherratt, Tim",
+      "orcid": "0000-0001-7956-4498"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/ozglam-data/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Notebooks and harvested data relating to my attempts to extract information about GLAM (galleries, libraries, archives, and museums) datasets from government data portals. For more information see the <a href=\"https://glam-workbench.net/glam-data-portals/\">GLAM data from government portals</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Harvesting GLAM data from government portals – attempts to harvest the details of GLAM datasets from state and national data portals.</li> <li>Harvest GLAM datasets from data.gov.au – quick attempt to harvest datasets published by GLAM institutions using the data.gov.au API.</li> </ul> <p>See the <a href=\"https://glam-workbench.net/glam-data-portals/\">GLAM Workbench for more details</a>.</p> <h2 id=\"cite-as\">Cite as</h2> <p>See the GLAM Workbench or <a href=\"https://doi.org/10.5281/zenodo.3521724\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
+}
