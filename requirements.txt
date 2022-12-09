@@ -34,7 +34,7 @@ bleach==5.0.0
     # via nbconvert
 cattrs==1.10.0
     # via requests-cache
-certifi==2021.10.8
+certifi==2022.12.7
     # via requests
 cffi==1.15.0
     # via argon2-cffi-bindings
@@ -42,8 +42,12 @@ charset-normalizer==2.0.12
     # via requests
 click==8.1.3
     # via csv-diff
+contourpy==1.0.6
+    # via matplotlib
 csv-diff==1.1
     # via -r requirements.in
+cycler==0.11.0
+    # via matplotlib
 debugpy==1.6.0
     # via ipykernel
 decorator==5.1.1
@@ -60,6 +64,8 @@ executing==0.8.3
     # via stack-data
 fastjsonschema==2.15.3
     # via nbformat
+fonttools==4.38.0
+    # via matplotlib
 idna==3.3
     # via
     #   anyio
@@ -131,10 +137,14 @@ jupyterlab-server==2.15.0
     # via jupyterlab
 jupyterlab-widgets==1.1.1
     # via ipywidgets
+kiwisolver==1.4.4
+    # via matplotlib
 markupsafe==2.1.1
     # via
     #   jinja2
     #   nbconvert
+matplotlib==3.6.2
+    # via upsetplot
 matplotlib-inline==0.1.3
     # via
     #   ipykernel
@@ -171,16 +181,22 @@ notebook==6.4.11
 notebook-shim==0.1.0
     # via nbclassic
 numpy==1.22.3
-    # via pandas
+    # via
+    #   contourpy
+    #   matplotlib
+    #   pandas
 packaging==21.3
     # via
     #   ipykernel
     #   jupyter-server
     #   jupyterlab
     #   jupyterlab-server
+    #   matplotlib
     #   nbconvert
 pandas==1.4.2
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   upsetplot
 pandocfilters==1.5.0
     # via nbconvert
 parso==0.8.3
@@ -189,6 +205,8 @@ pexpect==4.8.0
     # via ipython
 pickleshare==0.7.5
     # via ipython
+pillow==9.3.0
+    # via matplotlib
 prometheus-client==0.14.1
     # via
     #   jupyter-server
@@ -211,13 +229,16 @@ pygments==2.12.0
     #   ipython
     #   nbconvert
 pyparsing==3.0.8
-    # via packaging
+    # via
+    #   matplotlib
+    #   packaging
 pyrsistent==0.18.1
     # via jsonschema
 python-dateutil==2.8.2
     # via
     #   arrow
     #   jupyter-client
+    #   matplotlib
     #   pandas
 python-slugify==6.1.2
     # via -r requirements.in
@@ -289,6 +310,8 @@ traitlets==5.1.1
     #   nbconvert
     #   nbformat
     #   notebook
+upsetplot==0.7.0
+    # via -r requirements.in
 url-normalize==1.4.3
     # via requests-cache
 urllib3==1.26.9
